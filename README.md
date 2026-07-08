@@ -35,13 +35,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Abebe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abex04&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abex04&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abex04&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
